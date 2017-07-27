@@ -1,0 +1,7 @@
+for i in {1..2}
+do
+echo "---------- test loop $i "
+./pcie_memio 0xc0000000  ../../TUL_KU115/bin_files/floating_point_vector_mult_XL/KU115_AXI_ICAP_PR_DESIGN_top_pblock_U_HLS_PR_module
+echo "------------------------"
+sleep 1
+done

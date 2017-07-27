@@ -1,0 +1,4 @@
+pushd .
+cd ~sanjayr/projects/XDMA/driver_r45/tests
+./load_driver.sh
+popd
