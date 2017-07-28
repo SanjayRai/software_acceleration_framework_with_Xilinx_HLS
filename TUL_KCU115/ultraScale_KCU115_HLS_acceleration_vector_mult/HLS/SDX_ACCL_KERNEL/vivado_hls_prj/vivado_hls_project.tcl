@@ -11,7 +11,7 @@ add_files ../src/sdx_cppKernel_top.h
 add_files ../src/sdx_cppKernel_top.cpp
 
 open_solution "solution1"
-set_part {xcku060-ffva1156-2-e}
+set_part {xcku115-flvb2104-2-i}
 create_clock -period 4 -name default
 csim_design
 csynth_design
