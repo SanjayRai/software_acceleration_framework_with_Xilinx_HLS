@@ -1,0 +1,7 @@
+ By Default Static Libraries are installed. However, Static libraries are not
+ installed by default.
+
+ For the Make to work with Defaults:
+ > yum install glic-static
+
+
